@@ -1,0 +1,20 @@
+.AdDesigner .darkTheme {
+  background-color: black;
+  color: white;
+  width: 300px;
+  height: 150px;
+  border: 2px solid white;
+  box-shadow: 0 0 3px 3px gray;
+}
+
+.AdDesigner .fontSizeContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.AdDesigner button {
+  background-color: #0e3c7e;
+  color: white;
+  border-radius: 3px;
+}

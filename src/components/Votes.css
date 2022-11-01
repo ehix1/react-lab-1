@@ -1,0 +1,19 @@
+.Votes button {
+  background-color: #0e3c7e;
+  color: white;
+  border-radius: 3px;
+}
+.Votes div {
+  height: 20px;
+  width: 100%;
+  border-radius: 5px;
+}
+.Votes .chocolate {
+  background-color: #4f2c2c;
+}
+.Votes .vanilla {
+  background-color: #cbc0ac;
+}
+.Votes .strawberry {
+  background-color: #de8c91;
+}
